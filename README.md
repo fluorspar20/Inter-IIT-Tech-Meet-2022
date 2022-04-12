@@ -1,3 +1,3 @@
-# HP_DA_T17
+# SEC Filing Analyser for SaaS Companies
 
-Please refer individual folders to get detailed ReadME regarding the different sections. 
+Please refer individual folders to get detailed README regarding the different sections. 
