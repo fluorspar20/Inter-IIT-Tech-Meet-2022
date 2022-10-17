@@ -53,3 +53,15 @@ docker rm node2 -f
 $ npm run dev # for development mode
 $ npm run prod # for production mode
 ```
+## Screenshots
+#### Home Page
+![a](https://github.com/fluorspar20/Inter-IIT-Tech-Meet-2022/blob/master/saas-client-main/a.png)
+
+#### Company Info Page
+![b](https://github.com/fluorspar20/Inter-IIT-Tech-Meet-2022/blob/master/saas-client-main/b.png)
+
+#### Calculated Metrics
+![c](https://github.com/fluorspar20/Inter-IIT-Tech-Meet-2022/blob/master/saas-client-main/c.png)
+
+#### Comparison b/w 2 or more companies
+![d](https://github.com/fluorspar20/Inter-IIT-Tech-Meet-2022/blob/master/saas-client-main/d.png)
